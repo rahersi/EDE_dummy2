@@ -19,6 +19,7 @@ public class EDE_dummy2 {
         int num1 = 0;
         int num2 = 1;
         int Suma = num1 + num2;
+        System.out.println(Suma);
     }
     
 }
