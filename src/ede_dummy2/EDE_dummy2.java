@@ -16,6 +16,9 @@ public class EDE_dummy2 {
      */
     public static void main(String[] args) {
         System.out.print("Hola mundillo");
+        int num1 = 0;
+        int num2 = 1;
+        int Suma = num1 + num2;
     }
     
 }
